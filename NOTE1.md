@@ -15,9 +15,15 @@ source: http://www.paulgraham.com/diff.html
 ## Notes
 
 I suppose first idea of variables (and memory) was introduced in Turing Machine. [citation required]
+I suppose first idea of [`goto`](https://en.wikipedia.org/wiki/Goto) was introduced in Turing Machine. [citation required]
+Later [Edsger Dijkstra critised idea of goto](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF).
+Donald E. Knuth has [alternative view](http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf).
+
+There are different types of Turing Machines.
 
 **Programs composed of expressions** also can be treated as first ["everything is a..." rule](http://c2.com/cgi/wiki?EverythingIsa).
 
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) designer of lisp
 - [History of Lisp](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
 - [John McCarthy home page](http://www-formal.stanford.edu/jmc/)
+
