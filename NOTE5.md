@@ -47,4 +47,5 @@ Other links on subject:
  - http://www.feynmanlectures.caltech.edu/
  - http://www.richard-feynman.net/videos.htm
  - http://www.feynman.com/2016/05/19/the-animated-feynman-lectures/
+ - https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf
 

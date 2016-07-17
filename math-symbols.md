@@ -13,7 +13,7 @@
     ∎  end of proof
 
     ⊦  assertion
-       "infers in" The symbol was first published in [Frege 1879]
+       "infers in". The symbol was first published in [Frege 1879]
     ⊧  models
     ⊨  true
     ⊩  forces
