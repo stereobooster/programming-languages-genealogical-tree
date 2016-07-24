@@ -1,6 +1,6 @@
 # Programming languages genealogical tree
 
-![diagram](https://raw.githubusercontent.com/stereobooster/programming-languages-genealogical-tree/gh-pages/img/diagram.png)
+![diagram](https://rawgithub.com/stereobooster/programming-languages-genealogical-tree/gh-pages/img/diagram.svg)
 
 Source: [rigaux.org](http://rigaux.org/language-study/diagram.html)
 
