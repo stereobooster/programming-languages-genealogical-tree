@@ -30,7 +30,7 @@ There are a lot of similar efforts and all of them have one big flow from my poi
 
 Many links between languages in simillar projects not provide information on what kind of relation it is and lacks credibility. So they tends to be more confusing rather than helpfull. I want to add this type of information.
 
-Other side of this project is to show in what language concept (idea, paradigm, technique) first appeared. See [link](http://rigaux.org/language-study/concepts-history.html). So if similar concept appears in other language it is can be considered as inspired by original source. But this not alway true: Simula considered to be first object-oriented language (even though there was idea of object before [citation required]), but idea of object-oriented language presented in SmallTalk is completley different and both languages appeared with small time difference, so I do not consider that one was inspired by another. Yes, both languages talk about object, but OOP-ideas behind them are comletley different.
+Other side of this project is to show in what language concept (idea, paradigm, technique) first appeared. See [link](http://rigaux.org/language-study/concepts-history.html). So if similar concept appears in other language it is can be considered as inspired by original source. But this not alway true: Simula considered to be first object-oriented language (even though there was idea of object before [citation required]), but idea of object-oriented language presented in SmallTalk is completley different and both languages appeared with small time difference, so I do not consider that one was inspired by another. Yes, both languages talk about object, but OOP-ideas behind them are completley different.
 
 ## Similar projects
 
