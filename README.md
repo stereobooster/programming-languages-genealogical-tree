@@ -55,6 +55,8 @@ It is possible to add mathematical theories which were preceding programing lang
 
 ## Other links
 
+ - [The Programming Languages Zoo](http://plzoo.andrej.com/)
+ - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
  - [History of Programming Languages, Spring 2017](https://github.com/nuprl/hopl-s2017)
  - [Some History of Functional Programming Languages](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf), [2](http://www-fp.cs.st-andrews.ac.uk/tifp/TFP2012/TFP_2012/Turner.pdf)
  - [Fundamental Concepts in Programming Languages, 1967](https://github.com/papers-we-love/papers-we-love/blob/master/plt/fundamental-concepts-in-programming-languages.pdf)
