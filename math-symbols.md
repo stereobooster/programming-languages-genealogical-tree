@@ -46,6 +46,9 @@
     ⊊  subset of with not equal to
     ⊋  superset of with not equal to
 
+
+![proposition-as-types](/img/proposition-as-types.png)
+
 ## Links
 
  - https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf
