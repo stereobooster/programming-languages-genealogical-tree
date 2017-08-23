@@ -82,6 +82,12 @@ It is possible to add mathematical theories which were preceding programing lang
  - https://en.wikipedia.org/wiki/Timeline_of_programming_languages
  - http://visual.ly/programming-languages-world
 
+## Good papers
+
+- https://www.cs.cmu.edu/~crary/819-f09/
+- http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
+- https://github.com/nuprl/10PL
+
 ## D3 examples of timelines and similar graphs
 
  - [Exploring Family Trees (Beta)](https://learnforeverlearn.com/ancestors/)
