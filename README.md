@@ -55,6 +55,8 @@ It is possible to add mathematical theories which were preceding programing lang
 
 ## Other links
 
+ - [The principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
+ - [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
  - [The Programming Languages Zoo](http://plzoo.andrej.com/)
  - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
  - [Programming Languages: History and Future, 1972](https://www.csee.umbc.edu/courses/undergraduate/CMSC331/resources/papers/sammet1972.pdf)
