@@ -55,17 +55,16 @@ It is possible to add mathematical theories which were preceding programing lang
 
 ## Other links
 
- - [The principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
- - [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
- - [The Programming Languages Zoo](http://plzoo.andrej.com/)
- - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
  - [Programming Languages: History and Future, 1972](https://www.csee.umbc.edu/courses/undergraduate/CMSC331/resources/papers/sammet1972.pdf)
  - [History of Programming Languages, Spring 2017](https://github.com/nuprl/hopl-s2017)
  - [Some History of Functional Programming Languages](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf), [2](http://www-fp.cs.st-andrews.ac.uk/tifp/TFP2012/TFP_2012/Turner.pdf)
- - [Fundamental Concepts in Programming Languages, 1967](https://github.com/papers-we-love/papers-we-love/blob/master/plt/fundamental-concepts-in-programming-languages.pdf)
+- [The principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf)
+- [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [Fundamental Concepts in Programming Languages, 1967](https://github.com/papers-we-love/papers-we-love/blob/master/plt/fundamental-concepts-in-programming-languages.pdf)
  - [Some History of Functional Programming Languages, June 2012](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf)
  - [P.J. Landin The next 700 programming languages, 1966](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
  - [G.D. Plotkin. Call-by-name, call-by-value, and the λ-calculus, 1975](http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
+ - [Call by push, 2001](http://www.cs.bham.ac.uk/~pbl/papers/thesisqmwphd.pdf)
  - [Luca Cardelli, Type Systems, 1997](http://lucacardelli.name/Papers/TypeSystems.pdf)
  - [Luca Cardelli, On Understanding Types, Data Abstraction, and Polymorphism, 1985](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)
  - [C.A.R. Hoare. An axiomatic basis for computer programming, 1969](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf)
