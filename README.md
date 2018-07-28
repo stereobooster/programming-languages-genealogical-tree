@@ -82,6 +82,7 @@ It is possible to add mathematical theories which were preceding programing lang
  - http://i.stack.imgur.com/NZx8g.png
  - https://en.wikipedia.org/wiki/Timeline_of_programming_languages
  - http://visual.ly/programming-languages-world
+ - https://akr.am/languages/
 
 ## Good papers
 
