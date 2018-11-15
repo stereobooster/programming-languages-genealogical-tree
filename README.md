@@ -34,6 +34,7 @@ Other side of this project is to show in what language concept (idea, paradigm, 
 
 ## Similar projects
 
+ - http://www.roundcrisis.com/2016/02/14/Database-programming-ii/
  - http://archive.oreilly.com/pub/a/oreilly/news/languageposter_0504.html Most beautiful timeline with reasonable number of languages ([pdf](http://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf)). SmallTalk have Simula as influencer which is misleading, but also have LISP which is fair enough.
  - http://rigaux.org/language-study/diagram.html Timeline with big number of languages
  - https://www.levenez.com/lang/ Timeline with very big number of languages ([pdf](https://www.levenez.com/lang/lang.pdf)).
