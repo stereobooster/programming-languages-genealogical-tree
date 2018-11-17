@@ -85,6 +85,12 @@ It is possible to add mathematical theories which were preceding programing lang
  - http://visual.ly/programming-languages-world
  - https://akr.am/languages/
 
+## History of computation
+
+- https://github.com/JoannaSharrad/presentations/blob/master/The%20Six%20Degrees%20of%20_%20Computability.pdf
+- https://www.youtube.com/watch?v=2oNmR0q1uA0
+- https://pron.github.io/computation-logic-algebra
+
 ## Good papers
 
 - https://www.cs.cmu.edu/~crary/819-f09/
